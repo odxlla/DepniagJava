@@ -1,0 +1,9 @@
+------Report Pembelian DEPNIAG 20/01/2020 11:23:07-----
+Nama = mauli
+Telepon = 0987721313
+Kelas = 10
+Barang = Teh Manis
+Jumlah = 3
+Total Belanja = 9000
+Uang Dibayarkan = 20000
+Kembalian = 11000
