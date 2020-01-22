@@ -1,2 +1,2 @@
 # DepniagJava
-Aplikasi penjualan produk berbasis Java 
+Aplikasi penjualan produk berbasis Java [Vulnerable]
